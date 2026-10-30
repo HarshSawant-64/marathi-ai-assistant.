@@ -6,6 +6,9 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "experiments": {
+      "baseUrl": "/marathi-ai-assistant."
+    },
     "android": {
       "package": "in.awaazsetu.prototype"
     },

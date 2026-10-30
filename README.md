@@ -1,5 +1,9 @@
 # AwaazSetu
 
+## Public prototype demo
+
+Try the [AwaazSetu web demo](https://harshsawant-64.github.io/marathi-ai-assistant./). It runs in local mock mode and does not require provider credentials. New commits to `main` automatically rebuild and publish the web demo through GitHub Pages.
+
 A Marathi-first text prototype for asking simple questions in Marathi, Hindi, or English. Gemini text support and a separately consented Grok fallback are implemented behind the backend, but mock mode is the default. Scholarship questions can surface curated official portal links; government document retrieval, speech recognition, speech synthesis, and phone assistance are not implemented.
 
 ## Current prototype
